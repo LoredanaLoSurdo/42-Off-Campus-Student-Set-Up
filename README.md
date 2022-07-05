@@ -1,6 +1,6 @@
-# 42 remote study set up (macOS)
+# 42 remote study set up (MacOS)
 
-With this guide, you can install the Norminette, 42 header, and access your 42 repositories on your Mac. 
+With this guide, you can install the Norminette, 42 Header, and access your 42 repositories on your Mac. 
 
 Remote study shouldn't replace going onto campus. Use this to get some extra study in or when coming into 42 isn't an option. ☺︎
 
