@@ -1,4 +1,4 @@
-# 42 remote study set up (MacOS)
+# 42 Off Campus Student Set Up (MacOS)
 
 With this guide, you can install the Norminette, 42 Header, and access your 42 repositories on your Mac. 
 
