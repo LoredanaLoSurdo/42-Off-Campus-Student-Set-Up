@@ -62,7 +62,7 @@ Use `cd ~` to get back to your home directory then type `vim .vimrc`. This file 
 `let g:user42 = 'intraname'`  
 `let g:mail42 = 'marvin@42.fr'`
 
-![Image](Images/vimrc1.png)
+![](Images/vimrc1.png)
 
 Save and quit Vim.
 
@@ -85,6 +85,6 @@ You can edit the .vimrc file from earlier to add Vim configurations, these confi
 
 Your .vimrc file might look a bit like this:
 
-![Image](Images/vimrc2.png)
+![](Images/vimrc2.png)
 
 Your Mac is now ready for remote study!
