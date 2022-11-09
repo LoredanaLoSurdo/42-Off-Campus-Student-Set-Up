@@ -35,7 +35,7 @@ You can use this same key later on in the guide if you would prefer to use SSH o
 
 ## Norminette
 
-To install the Norminette visit the link and follow the installation instructions. You'll need Python for this but your Mac should have it installed. To check you have the correct version of Python use `Python --version.`
+To install the Norminette visit the link and follow the installation instructions. You'll need Python for this but your Mac should have it installed. To check you have the correct version of Python use `Python --version`. 
 [Norminette on Github](https://github.com/42School/norminette) 
 
 ## 42 Header
